@@ -1,0 +1,42 @@
+{
+  "Product Name"	: "White Womens T-Shirt Stomach "DT" Logo",
+  "designer"		: ["Toni Oluwole", "Daniel Okereke"],
+  "MSrP" 			: "$69.99",
+  "location"   		: "Main Collection",
+  "publisher"  		: "Danton Swathes",
+  "year"       		: 2018,
+  "sizes"      		: 4,
+  "available"  		: false
+}
+
+{
+  "Product Name"	: "White Womens T-Shirt Stomach "Danton!" Logo",
+  "designer"		: ["Toni Oluwole", "Daniel Okereke"],
+  "MSrP" 			: "$69.99",
+  "location"   		: "Main Collection",
+  "publisher"  		: "Danton Swathes",
+  "year"       		: 2018,
+  "sizes"      		: 4,
+  "available"  		: false
+}
+
+{
+  "Product Name"	: "White Womens Leggings Knees "DT" Logo",
+  "designer"		: ["Toni Oluwole", "Daniel Okereke"],
+  "MSrP" 			: "$39.99",
+  "location"   		: "Main Collection",
+  "publisher"  		: "Danton Swathes",
+  "year"       		: 2018,
+  "sizes"      		: 4,
+  "available"  		: false
+}
+
+{
+  "Product Name"	: "White Womens Leggings Knees "Danton!" Logo",
+  "designer"		: ["Toni Oluwole", "Daniel Okereke"],
+  "MSrP" 			: "$39.99",
+  "location"   		: "Main Collection",
+  "publisher"  		: "Danton Swathes",
+  "year"       		: 2018,
+  "sizes"      		: 4,
+  "available"  		: false

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html>
+   
+<head>
+	<meta charset="utf-8">
+	<title>Art Gallery</title>
+	<link rel="stylesheet" href="CSS Files/Pops.css" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+KR|Notable|Open+Sans|Source+Sans+Pro|Anton|K2D">
+	<script src="JavaScript Files/Pops.js"></script>
+</head>
+
+	<body>
+		<div id="popup" class="popup_plane" onclick="hide_popup();">
+			<figure>
+				<img id="popup_image" src="PopMockups/MensT-Shirt1.png" alt="White Mens T-Shirt Pocket DT Logo"/>
+				<figcaption id="popup_caption">White Mens T-Shirt Pocket "DT" Logo</figcaption>
+			</figure>
+		</div>
+	 
+	<table align="center" border=1 style="width:100%;">
+		<tr>
+			<th colspan="2" style="font-family:Notable"><a href="Homepage.html">Danton Swathes</th>
+			
+			<th colspan="6"><form action="/action_page.php">
+				<input border=1 style="font-family:K2D; width:80%; font-size:13pt;" type="text" placeholder="Search..." name="search">
+				<button style="font-family:Source Sans pro; font-size:13pt;" type="submit">Submit</button>
+				</form></th>
+				
+			<th colspan="1"><a href="Cart.html">Cart</th>
+		</tr>
+
+		<tr class="MenuBar">
+			<th colspan="1"> <a href="Men.html">Men</th>
+			<th colspan="1"> <a href="Women.html">Women</th>
+			<th colspan="1"> <a href="KidsandBabies.html">Kids and Babies</th>
+			<th colspan="1"> <a href="Footwear.html">Footwear</th>
+			<th colspan="1"> <a href="Accessories.html">Accessories</th>
+			<th colspan="1"> <a href="Blog.html">Blog</th>
+			<th colspan="1"> <a href="AboutUS.html">About Us</th>
+			<th colspan="1"> <a href="Art.html">Art</th>
+			<th colspan="1" class="account"> <a href="Account_Forms.html">Account</th>
+		</tr>
+	</table><hr>
+	<table align="center" border=1 style="width:100%; font-family: anton; font-size:20pt">
+		<tr>
+			<th colspan="9">Popup Gallery</th>
+		</tr>
+	</table>
+	
+	<!-- Image Gallery -->
+	<div class="gallery"><center>
+		<figure onclick='show_popup("PopMockups/MensT-Shirt1.png", "White Mens T-Shirt Pocket DT Logo");'>
+			<img class="bigger" src="PopMockups/MensT-Shirt1.png" alt="White Mens T-Shirt Pocket DT Logo" title="Mens T-Shirt PopMockup 1" />
+			<style="width:20px; height:auto;"></br>
+			<p style="font-family:Source Sans Pro;"><b>White Mens T-Shirt Pocket "DT" Logo</b></p></br></br>
+		</figure>
+		<figure onclick='show_popup("PopMockups/MensT-Shirt2.jpg", "White Mens T-Shirt Chest Danton! Logo");'>
+			<img class="" src="PopMockups/MensT-Shirt2.jpg" alt="White Mens T-Shirt Chest Danton! Logo" title="Mens T-Shirt PopMockup 2" />
+			<p style="font-family:Source Sans Pro;"><b>White Mens T-Shirt Chest "Danton!" Logo</b></p></br></br>
+		</figure>
+		<figure onclick='show_popup("PopMockups/Hoodie1.jpg", "White Mens Hoodie Stomach Danton! Logo");'>
+			<img class="" src="PopMockups/Hoodie1.jpg" alt="White Mens Hoodie Stomach Danton! Logo" title="Mens Hoodie PopMockup 1" />
+			<p style="font-family:Source Sans Pro;"><b>White Mens Hoodie Stomach "Danton!" Logo</b></p></br>
+		</figure>
+		<figure onclick='show_popup("PopMockups/Hoodie2.png", "White Mens Hoodie Stomach DT Logo");'>
+			<img class="wide" src="PopMockups/Hoodie2.png" alt="White Mens Hoodie Stomach DT Logo" title="Monarch Butterfly" />
+			<p style="font-family:Source Sans Pro;"><b>White Mens Hoodie Stomach "DT" Logo</b></p></br>
+		</figure>
+		<figure onclick='show_popup("PopMockups/UnisexJacket1.jpg", "Black Unisex Jacket DT Pocket Logo");'>
+			<img class="" src="PopMockups/UnisexJacket1.jpg" alt="Black Unisex Jacket DT Pocket Logo" title="Jacket PopMockup 1" />
+			<p style="font-family:Source Sans Pro;"><b>Black Unisex Jacket "DT" Pocket Logo</b></p></br></br>
+		</figure>
+	</div>
+</body>
+
+</html>

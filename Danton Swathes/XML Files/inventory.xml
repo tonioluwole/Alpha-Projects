@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<i:inventory xmlns:i="Inventory.html">
+	<i:product id="1000">
+		<i:subsidiary>Danton</i:subsidiary>
+		<i:name>White Mens T-Shirt Pocket "DT" Logo</i:name>
+		<i:category>T-shirt</i:category>
+		<i:price>69.99</i:price>
+		<i:quantity>0</i:quantity>
+	</i:product>
+	
+	<i:product id="1001">
+		<i:subsidiary>Danton</i:subsidiary>
+		<i:name>White Mens T-Shirt Chest "Danton!" Logo</i:name>
+		<i:category>T-shirt</i:category>
+		<i:price>69.99</i:price>
+		<i:quantity>0</i:quantity>
+	</i:product>
+	
+	<i:product id="1002">
+		<i:subsidiary>Danton</i:subsidiary>
+		<i:name>White Mens Hoodie Stomach "Danton!" Logo</i:name>
+		<i:category>Hoodie</i:category>
+		<i:price>79.99</i:price>
+		<i:quantity>0</i:quantity>
+	</i:product>
+	
+	<i:product id="1003">
+		<i:subsidiary>Danton</i:subsidiary>
+		<i:name>White Mens Hoodie Stomach "DT" Logo</i:name>
+		<i:category>Hoodie</i:category>
+		<i:price>79.99</i:price>
+		<i:quantity>0</i:quantity>
+	</i:product>
+	
+	<i:product id="1004">
+		<i:subsidiary>Danton</i:subsidiary>
+		<i:name>Black Unisex Jacket "DT" Pocket Logo</i:name>
+		<i:category>Jacket</i:category>
+		<i:price>99.99</i:price>
+		<i:quantity>0</i:quantity>
+	</i:product>
+	
+	<i:product id="1005">
+		<i:subsidiary>Danton</i:subsidiary>
+		<i:name>White Womens T-Shirt Chest "Danton!" Logo</i:name>
+		<i:category>T-shirt</i:category>
+		<i:price>69.99</i:price>
+		<i:quantity>0</i:quantity>
+	</i:product>
+	
+	<i:product id="1006">
+		<i:subsidiary>Danton</i:subsidiary>
+		<i:name>White Womens T-Shirt Chest "DT" Logo</i:name>
+		<i:category>T-shirt</i:category>
+		<i:price>69.99</i:price>
+		<i:quantity>0</i:quantity>
+	</i:product>
+	
+	<i:product id="1007">
+		<i:subsidiary>Danton</i:subsidiary>
+		<i:name>White Womens Leggings Knees "DT" Logo</i:name>
+		<i:category>Leggings</i:category>
+		<i:price>39.99</i:price>
+		<i:quantity>0</i:quantity>
+	</i:product>
+	
+	<i:product id="1008">
+		<i:subsidiary>Danton</i:subsidiary>
+		<i:name>White Womens Leggings Knees "Danton!" Logo</i:name>
+		<i:category>Leggings</i:category>
+		<i:price>39.99</i:price>
+		<i:quantity>0</i:quantity>
+	</i:product>
+</i:inventory>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<o:order id="101" xmlns:o="OurOrders.html">
+	<o:name>
+		<o:first>Jack</o:first>
+		<o:last>Frost</o:last>
+	</o:name>
+	<o:address>
+		<o:street>1343 Meafowlands Dr. E</o:street>
+		<o:city>Nepean</o:city>
+		<o:province>Ontario</o:province>
+		<o:country>Canada</o:country>
+		<o:postalCode>K2E7E8</o:postalCode>
+	</o:address>
+	<o:shippingType>Standard</o:shippingType>
+	<o:date>
+		<o:year>2019</o:year>
+		<o:month>01</o:month>
+		<o:day>06</o:day>
+	</o:date>
+	<o:productList>
+		<o:product id="24252">
+			<o:cost>69.99</o:cost>
+			<o:quantity>2</o:quantity>
+		</o:product>
+		<o:product id="25392">
+			<o:cost>99.99</o:cost>
+			<o:quantity>1</o:quantity>
+		</o:product>
+	</o:productList>
+</o:order>
+
