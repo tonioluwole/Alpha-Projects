@@ -1,14 +1,3 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-// ConsoleApplication5.cpp : Defines the entry point for the console application.
-//
-
-
 #include <stdlib.h>
 #include <iostream>
 #include <time.h>
